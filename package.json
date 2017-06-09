@@ -1,11 +1,11 @@
 {
   "name": "isaray",
   "version": "1.0.0",
-  "description": "Determines whether the provided value is a ray.",
+  "description": "Identifies a ray."
   "main": "index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+      "postinstall": "node postinstall.js"
   },
-  "author": "",
-  "license": "ISC"
+  "author": "Ray Ashman Jr.",
+  "license": "MIT"
 }
