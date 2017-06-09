@@ -1,11 +1,11 @@
 {
-  "name": "isaray",
-  "version": "1.0.0",
-  "description": "Identifies a ray."
-  "main": "index.js",
-  "scripts": {
-      "postinstall": "node postinstall.js"
-  },
-  "author": "Ray Ashman Jr.",
-  "license": "MIT"
+    "name": "isaray",
+    "version": "1.0.0",
+    "description": "Identifies a ray.",
+    "main": "index.js",
+    "scripts": {
+	"postinstall": "node postinstall.js"
+    },
+    "author": "Ray Ashman Jr.",
+    "license": "MIT"
 }
